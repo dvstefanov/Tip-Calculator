@@ -1,0 +1,23 @@
+.dialog {
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgb(252, 143, 143);
+    color: rgb(192, 7, 7);
+    border: 2px solid rgb(192, 7, 7);
+}
+
+.dialog form {
+    text-align: right;
+}
+
+dialog p {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.dialog form button {
+    font-size: 1rem;
+    padding: 0.5rem;    
+    border-radius: 8px;
+    border: none;
+}
